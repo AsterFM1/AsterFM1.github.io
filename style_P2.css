@@ -1,0 +1,41 @@
+h1 {
+    color: brown;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+caption {
+    caption-side: top;
+    text-align: center;
+    color: dimgrey;
+}
+
+.work {
+    background-color: lightblue;
+    
+}
+
+.number {
+    background-color: lightgreen;
+}
+
+.rating {
+    background-color: lightcoral;
+}
+
+.center {
+    text-align: center;
+    background-color: azure
+}
+
+.right {
+    text-align: right;
+    background-color: lightsalmon
+}
+
+.left {
+    background-color: lightcyan
+}
